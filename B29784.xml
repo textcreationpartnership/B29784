@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Short memorandum's upon the deaths of M. Philip Evans and M. John Lloyd both priests, who were executed at Cardiff in Glamorganshire, the 22. day of July, 1679.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29784</idno><idno type="EEBO-CITATION">99891082</idno>
+  <idno type="VID">186823</idno>
+  <idno type="EEBO-PROQUEST">2248563414</idno>
+  
+            <idno type="OCLC"> 13111299</idno>
+            <idno type="STC">Wing S3604</idno>
+            <idno type="STC">Interim Tract Supplement Guide T.1*.[40]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 515.l.2[27]</idno>
+            <idno type="STC">Interim Tract Supplement Guide T.88*.[29]</idno>
+            <idno type="STC">ESTC R9899</idno>
+            <idno type="PROQUEST">ocm99891082</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99891082e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29784)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186823)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:4[40]; C17:1[27]; C30:1[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Short memorandum's upon the deaths of M. Philip Evans and M. John Lloyd both priests, who were executed at Cardiff in Glamorganshire, the 22. day of July, 1679.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Evans and Lloyd were both Catholic priests implicated in the Popish Plot.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproductions of originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Lloyd, John, --  Saint, d. 1679 --  Early works to 1800.</term>
+               <term type="personal_name">Evans, Philip, --  Saint, 1645-1679 --  Early works to 1800.</term>
+               <term type="topical_term">Popish Plot, 1678 --  Early works to 1800.</term>
+               <term type="topical_term">Executions and executioners --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:186823:1"/>
+            <head>Short <hi>Memorandum's</hi> upon the Deaths of M. <hi>Philip Evans</hi> and M. <hi>John Lloyd</hi> both Priests, who were Executed at <hi>Cardiff</hi> in <hi>Glamorganshire,</hi> the 22. day of <hi>July,</hi> 1679.</head>
+            <p>ABout Nine of the Clock in the morning, the Under-Sheriff M. <hi>Charls Evans</hi> came to the Cellar in the Goal, where the Gentlemen were kept, and immediatly a Smith was sent for to take off their Irons, which were so hard set on, that the Smith was above an hour in taking off Mr. <hi>Evans's</hi> alone, which, was not done without great pain to him; notwithstanding which he never gave the least signe of Impa<g ref="char:EOLhyphen"/>tience or trouble, but encouraged the Man to go on with his work, with<g ref="char:EOLhyphen"/>out fear of hurting him: When they were brought out of the Cellar, they desired to walk on foot to the place of Execution, but were refused▪ and put both upon one Cart; their arms pinnioned; all the way reading in their Books. When they arrived at the place of Execution, they followed St. <hi>Andrews</hi> Example, saying, <hi>Welcome good Cross,</hi> and falling upon their knees, kissed the Post of the Gallows, and remained praying there a good while: When they had done, they asked which was to die first, the Sheriff answered, Mr. <hi>Evans;</hi> He bowing, spake these few words.</p>
+            <p>I need not tell you why we are brought here to suffer; our sentence of Condemnation is a sufficient witness, that it was not for a Plot, or any o<g ref="char:EOLhyphen"/>ther Crime, but for being Priests; consequently I do die for Religion and Conscience sake: I shall not speak much of the goodness of my Cause, be<g ref="char:EOLhyphen"/>cause I think it will be needless▪ but <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> good▪ that I would not▪ give the happiness of dying for it, for all the Crowns of the World: Sure if a Man ever speaks truth, it must be at the hour of death, therefore I hope no body will doubt of what I say; If I have or had any Enemies in the World, which I do not know that ever I had any in my Life, I do heartily forgive them, for any thing done or said against me; and if I have offended any bo<g ref="char:EOLhyphen"/>dy I am heartily sorry for it, and ask them forgiveness; I pray God bless and prosper the King: I beg the prayers of all, and in particular of the Ca<g ref="char:EOLhyphen"/>tholicks here present; That done, he kneeled down again with some friends about him, and having said some Prayers▪ he took his leave of them, and went up the Ladder; upon which he spoke again these words, Sure this is the best Pulpit a Man can have to Preach in, therefore I cannot forbear to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ell you again, that I die for God and Religion sake, and I think my self so happy, that if I had never so many lives, I would willingly give them all for so good a Cause; if I could live, it would be but for a little time, though I am but young, happy am I that can purchase with a short pain an Ever<g ref="char:EOLhyphen"/>lasting Life; I do forgive all those that have had any hand in my death, ac<g ref="char:EOLhyphen"/>cusation or Condemnation: I ask again forgiveness of every body, <hi>I</hi> give thanks to all those that have been kinde to me, and to you M Sheriff; Adieu Mr. <hi>Lloyd,</hi> tho' for a little time, for we shall shortly meet again; pray for me all, and I shall return it, when it pleaseth God that I shall enjoy the beatifical Vision, if any of you that see me die thus willingly for my Religi<g ref="char:EOLhyphen"/>on, have any good thought upon it, I shall think my self happy; then he made a stop, and after a little while, said with a clear and cheerfull voice,
+<pb facs="tcp:186823:2"/>
+               <hi>In manus tuus, Domine, commendo Spiritum meum;</hi> and so giving the signe, the Executioner turn'd him over, and the Ladder being very short, it stirr'd with him, then Mr. <hi>Richard Jones</hi> one of the Sheriffs Bailiffs took his legs from it, and turn'd them after his body; all that were present can justify, that he never looked better, nor more cheerfull then he did then; All this will be testifyed (if need be) by credible Persons as well Protestants as Ca<g ref="char:EOLhyphen"/>tholicks.</p>
+            <p>DUring the time of Mr. <hi>Evans</hi>'s Execution, Mr. <hi>Lloyd</hi> stood by with as much constancy and cheerfulness as any Man could have, and before he went up the Ladder, he said these words following more distinctly and heartily then ever he did in his Life, by the Report of those that have known him these many years. My fellow-sufferer has declared the Cause of our death, therefore I need not repeat it; and besides I never was a good speaker in my Life; I shall onely say, that I dye in the true Catholick and Apostolick Faith, according to these words in the Creed, I believe the Holy Catholick Church, and with those three Virtues, Faith, Hope, and Cha<g ref="char:EOLhyphen"/>rity, I forg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve all those that have offended me; and if I have offended any body I am heartily sorry for it, and ask them forgiveness. I beg the prayers of all, and in particular of the Catholicks here present, desiring them to bear their Crosses patiently, and to remember that passage of Holy Scrip<g ref="char:EOLhyphen"/>ture, <hi>Happy are they that suffer persecution for Justice, for theirs is the King<g ref="char:EOLhyphen"/>dome of Heaven:</hi> Then he went up the Ladder, and there gave thanks to all those that had been kinde to him, and in particular to the Sheriff, then he made a little stop; after which he said; Mr▪ <hi>Carne,</hi> you have been always my benefactor, pray for me now: then he knocked his breast three time, and said in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>atine, <hi>Lord have Mercy upon me a Sinner,</hi> and, <hi>Into thy hands, Lord, I recommend my Spirit▪</hi> So gave the signe and was turned over.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
